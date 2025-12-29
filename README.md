@@ -1,4 +1,4 @@
-## Fala rapazeada! Desenvolvendo softwares!
+## Fala rapazeada! Desenvolvo softwares!
 
 - 💻 Desenvolvedor de sites
 - 🌎 Estudando HTML & CSS
