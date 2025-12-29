@@ -1,4 +1,4 @@
-## Fala rapazeada! Eu sou Jabis Dias
+## Fala rapazeada! Desenvolvendo softwares!
 
 - 💻 Desenvolvedor de sites
 - 🌎 Estudando HTML & CSS
