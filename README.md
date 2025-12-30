@@ -1,24 +1,8 @@
-## Fala rapazeada! Desenvolvo softwares!
-
-- 💻 Desenvolvedor de sites
-- 🌎 Estudando HTML & CSS
-- 👻 ele-dele
-
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jabisdias&show_icons=true&theme=dark"/>
-</div>
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Jab-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Jab-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Jab-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-
-##
-
-<div>
-  <a href="https://www.youtube.com/@JabisDias" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/jabisdias" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "#"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+# Hi, I'm @JabisDias 👋
+- 👀 I'm interested in exploring the intersection of Android, Linux, and customization.
+- 🌱 I'm currently learning new techniques and hacks to enhance the functionality of Android devices using Termux and custom ROMs.
+- 💞️ I'm looking to collaborate on open-source Android projects or anything related to the exciting world of custom ROMs.
+- 📫 You can reach me through my YouTube channel, DroidMaster, where I share tutorials on ROMs and advanced usage of Linux on Android via Termux or through my Telegram community.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I believe that turning your Android device into a Linux powerhouse is not just a technical endeavor, but also a creative one. Let's explore the endless possibilities together!
+Feel free to connect, collaborate, and share the passion for pushing the boundaries of what our Android devices can achieve! 🚀
