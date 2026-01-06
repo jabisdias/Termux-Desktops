@@ -1,4 +1,4 @@
-## 🤚🍥 Setting Debian chroot - Manual install <a name=debian-chroot-manual></a>
+## 🤚🍥 Setting Ubuntu chroot - Manual install <a name=ubuntu-chroot-manual></a>
 
 1. Enter Android shell with root privileges: 
 ```
@@ -7,18 +7,18 @@ su
 
 2. Create a directory at `/data/local/tmp` for chroot environment
 ```
-mkdir /data/local/tmp/chrootDebian
-cd /data/local/tmp/chrootDebian
+mkdir /data/local/tmp/chrootUbuntu
+cd /data/local/tmp/chrootUbuntu
 ```
 
-3. Download Debian 12 rootfs: 
+3. Download Ubuntu 22.04 rootfs: 
 ```
-wget https://github.com/LinuxDroidMaster/Termux-Desktops/releases/download/Debian/debian12-arm64.tar.gz
+wget https://github.com/jabisdias/Termux-Desktops/releases/download/Ubuntu/ubuntu-base-22.04-base-arm64.tar.gz
 ```
 
 4. Unzip the downloaded file and create some folders to mount the sdcard
 ```
-tar xpvf debian12-arm64.tar.gz --numeric-owner
+tar xpvf ubuntu-base-22.04-base.arm64.tar.gz --numeric-owner
 
 mkdir sdcard
 mkdir dev/shm
@@ -27,7 +27,7 @@ mkdir dev/shm
 5. Create a start script: 
 ```
 cd ../
-vi start_debian.sh
+vi start_ubuntu.sh
 ```
 Copy and paste the following: 
 ```
