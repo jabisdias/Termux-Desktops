@@ -13,7 +13,7 @@ cd /data/local/tmp/chrootUbuntu
 
 3. Download Ubuntu 22.04 rootfs: 
 ```
-wget https://github.com/jabisdias/Termux-Desktops/releases/download/Ubuntu/ubuntu-base-22.04-base-arm64.tar.gz
+wget https://github.com/jabisdias/Termux-Desktops/releases/tag/Ubuntu/ubuntu-base-22.04-base-arm64.tar.gz
 ```
 
 4. Unzip the downloaded file and create some folders to mount the sdcard
