@@ -5,10 +5,6 @@ pkg install x11-repo
 pkg install termux-x11-nightly
 ```
 ```
-exit
-```
-
-```
 pkg install proot-distro
 ```
 ```
@@ -19,6 +15,8 @@ proot-distro login debian
 ```
 ```
 apt update -y
+```
+```
 apt install sudo nano adduser -y
 ```
 ```
