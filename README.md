@@ -19,7 +19,8 @@ wget https://github.com/jabisdias/Termux-Desktops/releases/tag/Ubuntu/ubuntu-bas
 4. Unzip the downloaded file and create some folders to mount the sdcard
 ```
 tar xpvf ubuntu-base-22.04-base.arm64.tar.gz --numeric-owner
-
+```
+```
 mkdir sdcard
 mkdir dev/shm
 ```
@@ -59,6 +60,8 @@ busybox chroot $DEBIANPATH /bin/su - root
 6. Make the script executable and run it: 
 ```
 chmod +x start_debian.sh
+```
+```
 sh start_debian.sh
 ```
 
